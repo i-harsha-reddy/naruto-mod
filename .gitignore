@@ -1,0 +1,14 @@
+# written by Claude Code when the mod loads
+.claude-plugin/types/
+# your own Claude Code settings for this folder
+.claude/settings.local.json
+# previews from scripts/
+.preview/
+node_modules/
+# editors and the OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+/*.gif
+/*.png

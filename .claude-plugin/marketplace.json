@@ -1,0 +1,15 @@
+{
+  "name": "naruto-mod",
+  "description": "A pixel-art Naruto companion for Claude Code: 20 ninja, 60 jutsu, performed while Claude works",
+  "owner": {
+    "name": "Harsha Reddy"
+  },
+  "plugins": [
+    {
+      "name": "naruto",
+      "source": "./",
+      "description": "A pixel-art chibi ninja above your Claude Code prompt who fights while Claude works: 20 characters from Naruto, 60 animated jutsu, hand-drawn summons",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "naruto",
+  "version": "1.0.0",
+  "description": "A pixel-art chibi ninja above your Claude Code prompt who fights while Claude works: 20 characters from Naruto, 60 animated jutsu, hand-drawn summons",
+  "author": {
+    "name": "Harsha Reddy"
+  },
+  "homepage": "https://github.com/i-harsha-reddy/naruto-mod",
+  "repository": "https://github.com/i-harsha-reddy/naruto-mod",
+  "license": "MIT",
+  "keywords": [
+    "naruto",
+    "pixel-art",
+    "companion",
+    "anime",
+    "fun"
+  ],
+  "types": "./types/index.d.ts"
+}
